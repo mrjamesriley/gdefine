@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require File.join(File.expand_path(File.dirname(__FILE__)), '..', 'lib', 'gdefine')
+
+begin
+  puts 'Ok this is working, good stuff'
+rescue Errno::EACCESS
+  puts "Sorry there was a problem"
+end
