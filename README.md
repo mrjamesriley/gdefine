@@ -13,9 +13,9 @@ I'm forever looking up definitions (not that I'm slow, just that I'm reading com
 
     Noun: An intense feeling of deep affection:  "their love for their country".An intense feeling of deep affection:  "their love for their country". 
 
-   Verb: Feel a deep romantic or sexual attachment to (someone):  "do you love me?".Feel a deep romantic or sexual attachment to (someone):  "do you love me?". 
+    Verb: Feel a deep romantic or sexual attachment to (someone):  "do you love me?".Feel a deep romantic or sexual attachment to (someone):  "do you love me?". 
 
-   Synonyms: noun.  affection - fondness - darling - passionverb.  like - be fond of - fancy - adore 
+    Synonyms: noun.  affection - fondness - darling - passionverb.  like - be fond of - fancy - adore 
 
 ## Contributing
 
