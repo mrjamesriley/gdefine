@@ -1,4 +1,4 @@
-# gdefine
+# gdefine [![Build Status](https://secure.travis-ci.org/mrjamesriley/gdefine.png)](http://travis-ci.org/mrjamesriley/gdefine)
 
 Simply get a word definition from Google without leaving the command line.
 I'm forever looking up definitions (not that I'm slow, just that I'm reading complicated material of course), and this proves useful given that I live within the terminal.
